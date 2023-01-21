@@ -1,2 +1,1 @@
-# PrepCourse-Henrry
-Esto es una prueba del prepcourse de henrry 
+esto es una prubea de como crear un repositorio desde mi escritorio 
